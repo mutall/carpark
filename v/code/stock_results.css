@@ -1,0 +1,44 @@
+html{
+    background-image: url( 'fielder.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index:-1;
+    height:100vh;
+}
+label{
+    background-color: whitesmoke;
+    color: black;
+    border:2px solid green;
+    padding:2px;
+    font-size: 50px;
+    text-align:left;
+    display:block;
+    padding-left:20px;
+    padding-top:5%;
+    height:40%;
+    width:70%;
+
+}
+body{
+    width:100vw;
+    height: 100vh;
+}
+form{
+    display:block;
+    height:25%;
+    width:70%;
+}
+.a{
+    background-color:azure;
+    color:black;
+    width:30%;
+    height:10%;
+    border-radius:30px;
+    margin-left:40px;
+    margin-top: 2%;
+    padding-bottom:2%;
+    font-size:40px;
+    text-align:center;
+    
+    
+}
