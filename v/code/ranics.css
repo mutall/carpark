@@ -1,0 +1,16 @@
+/*Make the font size good enough for projection*/
+*{
+    font-size: 30px;
+    line-height: 1.4;
+
+}
+/*To display the labels in a block format rather than inline*/
+label{
+    display: block;
+
+}
+/*Create a border around the form and reduce its size to 40%;*/
+form,.results{
+    border: 1px solid grey;
+    width: 30%
+}

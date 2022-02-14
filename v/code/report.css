@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    color: black;
+    background-color: azure;
+    font-size: 15px;
+    display: grid;
+    grid-template-columns: 80% 20% ;
+    grid-template-rows:  90%;
+    grid-template-areas: "results";
+    overflow: scroll;
+}
+.results{
+    grid-area: results;
+    margin: 10px 10px 10px 0 ;
+}
+h1{
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 18px;
+}
+table{
+    margin: 0px 20px 20px 0px;
+}
+table, th,td{
+    border: thin solid #d4d4d4;
+    border-collapse: collapse;
+    padding: 5px;
+    place-items: center;
+    border-radius: 10%;
+}
+.vehicle{
+    max-width: 95%;
+    max-height: auto;
+    margin: 0 auto;
+    position: relative;
+    top: 25px;
+    padding: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    background-color: white ;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}

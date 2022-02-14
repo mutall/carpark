@@ -1,0 +1,76 @@
+/*Index html styling*/
+body{
+    margin-left: 4%;
+    margin-right: 7%;
+    background-image: url("pictures/pic5.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.info {
+    color: white;
+    float: left;
+    font-size: 55px;
+    text-align: center;
+}
+
+.charges {
+    margin-top: 20%;
+    margin-left: 15%;
+    color: black;
+}
+.charges table {
+    font-size: 28px;
+}
+
+.charges h4 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-left: -60%;
+    text-decoration: underline;
+}
+
+.login_form {
+    background-color: white;
+    margin-top: 8%;
+    float: right;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.login_form form {
+    line-height: 1.6;
+}
+
+
+.login_form header {
+    text-align: center;
+}
+
+.login_form input {
+    font-size: 20px;
+    height: 45px;
+    width: 100%;
+}
+
+.login_form button {
+    font-size: 30px;
+    width: 100%;
+
+}
+
+form p {
+    font-size: 23px;
+}
+
+h1 {
+    word-spacing: 30px;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+}
+
+.info p {
+    font-size: 30px;
+}
