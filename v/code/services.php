@@ -5,15 +5,12 @@
             .services{
                 width: 45%;
                 margin-left: 20%;
-/*                font-size:30px;*/
+                font-size:30px;
                 line-height: 3.0;
             }
             
             a{
                 display:block
-            }
-            report{
-                width: 60%;
             }
                         
         </style>
