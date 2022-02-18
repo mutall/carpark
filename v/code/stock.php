@@ -62,7 +62,7 @@ $date = date("Y-m-d");
                 <label><input type="radio" name="category" value="Lorry" required />Lorry</label>
                 <label><input type="radio" name="category" value="Motorcycle" required />Motorcycle</label>
             </fieldset>
-            
+            <!-- k -->
             <fieldset>   
                 <legend>Time of the Day:</legend>
                 <label><input type="radio" name="daytime" value="morning" required />Morning</label>
