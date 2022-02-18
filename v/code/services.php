@@ -1,6 +1,6 @@
 <html>
     <head>
-        <!<!-- PMuraya 18-02-2022 -->
+        <!<!-- PMuraya 18-02-2022. After reviewing.-->
         <title>Available Services</title>
         <style>
             .services{
