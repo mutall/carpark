@@ -8,7 +8,8 @@
                 font-size:30px;
                 line-height: 3.0;
             }
-            
+            /*
+            Kaniu's pull request. */
             a{
                 display:block
             }
